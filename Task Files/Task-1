@@ -6,12 +6,14 @@ Figma File Link:
 
 Overview:
   Welcome to Task-1 of the EvolveIntern Internship!
-  This task is designed to designing the signup flow for a mobile app requires careful consideration of the user experience (UX) and user interface (UI) design aspects.
+  This task is designed to designing the signup flow for a mobile app requires careful consideration
+  of the user experience (UX) and user interface (UI) design aspects.
 
 Task Details:
 
   Objective:
-    Designing the signup flow for a mobile app requires careful consideration of the user experience (UX) and user interface (UI) design aspects.
+    Designing the signup flow for a mobile app requires careful consideration of the user experience (UX) and
+    user interface (UI) design aspects.
 
   Requirements:
     Here are the key steps and considerations for creating a seamless and intuitive mobile app signup flow:
@@ -42,17 +44,20 @@ Task Details:
       5.Password Creation:
         - Clearly communicate password requirements to ensure the security of user accounts.
       6.Personalization:
-        - After basic sign-up, prompt users to set their coffee preferences, such as roast level, flavor profile, and brewing method.
+        - After basic sign-up, prompt users to set their coffee preferences, such as roast level, flavor profile,
+          and brewing method.
       7.Account Verification:
         - Send a verification email to confirm the user's email address.
       8.Permission Requests:
-        - Ask for relevant permissions, such as location (for local coffee shop recommendations) or notifications (for order updates and rewards).
+        - Ask for relevant permissions, such as location (for local coffee shop recommendations) or notifications
+          (for order updates and rewards).
       9.Progress Indicators:
         - Use a progress bar or step indicators to show users how far they are in the registration process.
       10.Privacy and Terms:
         - Provide links to the app's privacy policy and terms of service for users to review.
       11.Success and Onboarding:
-        - Celebrate a successful sign-up with a welcoming message and offer a brief onboarding tutorial to introduce users to the app's features.
+        - Celebrate a successful sign-up with a welcoming message and offer a brief onboarding tutorial to introduce
+          users to the app's features.
       12.Error Handling:
         - Display clear and friendly error messages for any registration issues, and provide guidance on how to resolve them.
 
