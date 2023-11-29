@@ -1,0 +1,66 @@
+Task-1: Mobile App Signup Flow
+
+Figma File Link:
+  Use the link below to explore my figma file and look through my design.
+  https://www.figma.com/file/IOSMc2Y4RT7HKbpWyOUDSq/Evolve-Intern-Task-1?type=design&node-id=0%3A1&mode=design&t=1p54nQlAnd5sZz08-1
+
+Overview:
+  Welcome to Task-1 of the EvolveIntern Internship!
+  This task is designed to designing the signup flow for a mobile app requires careful consideration of the user experience (UX) and user interface (UI) design aspects.
+
+Task Details:
+
+  Objective:
+    Designing the signup flow for a mobile app requires careful consideration of the user experience (UX) and user interface (UI) design aspects.
+
+  Requirements:
+    Here are the key steps and considerations for creating a seamless and intuitive mobile app signup flow:
+      - [x]  Simplified Onboarding
+      - [x]  Clear Call-to-Action
+      - [x]  Social Media Sign-up
+      - [x]  User-Friendly Forms
+      - [x]  Password Creation
+      - [x]  Account Verification
+      - [x]  Permission Requests
+      - [x]  Progress Indicators
+      - [x]  Privacy and Terms
+      - [x]  Personalization
+      - [x]  Success and Onboarding
+      - [x]  Error Handling
+
+  Research:
+    For a coffee app, the sign-up page should not only be user-friendly but also visually appealing,
+    potentially incorporating coffee-themed graphics or elements to create a unique and engaging experience for coffee lovers.
+      1.Simplified Onboarding:
+        - Start with minimal information, such as name, email, and password.
+      2.Clear Call-to-Action:
+        - Use a prominent "Get Started" or "Sign Up" button to initiate the registration process.
+      3.Social Media Sign-up:
+        - Include options to sign up with Facebook or Google accounts for user convenience.
+      4.User-Friendly Forms:
+        - Design clean and visually appealing forms with input labels, placeholders, and inline validation.
+      5.Password Creation:
+        - Clearly communicate password requirements to ensure the security of user accounts.
+      6.Personalization:
+        - After basic sign-up, prompt users to set their coffee preferences, such as roast level, flavor profile, and brewing method.
+      7.Account Verification:
+        - Send a verification email to confirm the user's email address.
+      8.Permission Requests:
+        - Ask for relevant permissions, such as location (for local coffee shop recommendations) or notifications (for order updates and rewards).
+      9.Progress Indicators:
+        - Use a progress bar or step indicators to show users how far they are in the registration process.
+      10.Privacy and Terms:
+        - Provide links to the app's privacy policy and terms of service for users to review.
+      11.Success and Onboarding:
+        - Celebrate a successful sign-up with a welcoming message and offer a brief onboarding tutorial to introduce users to the app's features.
+      12.Error Handling:
+        - Display clear and friendly error messages for any registration issues, and provide guidance on how to resolve them.
+
+  Resources:
+    Figma
+
+Feedback and Questions:
+  Feel free to give any notes or comments on this task through my email: akankshapilli08@gmail.com
+
+Thank you
+Akanksha Pilli
