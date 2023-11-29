@@ -17,10 +17,10 @@ Repository Contents:
 How to Navigate:
 
   Task Files:
-    Browse the "Task Files" directory to access individual task instructions and requirements.
+    Browse the "Task Files" folder to access individual task instructions and requirements.
 
   Prototype Videos:
-    Explore the "Prototype Videos" section to view videos related to specific tasks.
+    Explore the "Prototype Videos" folder to view videos related to specific tasks.
     Once you click the video, it starts to download it on your computer.
     Ensure that you have the necessary video playback software to watch the prototypes.
 
